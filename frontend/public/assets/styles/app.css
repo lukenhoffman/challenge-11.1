@@ -1,0 +1,20 @@
+.app-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px;
+}
+
+.notes-interface {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;  
+}
+
+/* Optional global styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
